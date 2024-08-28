@@ -64,6 +64,10 @@ body {
 }
 
 
-.carousel-item{height: 400px; width: 500px;
-    align-items: center;
+.carousel-item{
+height: 500px;    
+margin-left: auto;
+margin-right: auto;
+
+
 }
